@@ -1,0 +1,490 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Simon\Desktop\frisbee\frisbee_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'UI') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.937370 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ce8 -> priority: 1 
+  Thread -> id: 38f8 -> priority: 1 
+Can't add component 'Rigidbody' to FeiPan(Clone) because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_001 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_002 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_003 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_004 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_005 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_006 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_007 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_008 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_009 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_010 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_011 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_012 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_013 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_014 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_015 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_016 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_017 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_018 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to FeiPan(Clone) because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_001 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_002 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_003 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_004 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_005 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_006 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_007 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_008 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_009 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_010 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_011 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_012 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_013 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_014 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_015 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_016 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_017 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_018 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to FeiPan(Clone) because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_001 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_002 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_003 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_004 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_005 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_006 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_007 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_008 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_009 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_010 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_011 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_012 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_013 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_014 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_015 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_016 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_017 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_018 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to FeiPan(Clone) because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_001 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_002 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_003 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_004 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_005 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_006 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_007 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_008 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_009 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_010 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_011 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_012 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_013 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_014 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_015 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_016 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_017 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_018 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to FeiPan(Clone) because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_001 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_002 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_003 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_004 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_005 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_006 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_007 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_008 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_009 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_010 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_011 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_012 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_013 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_014 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_015 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_016 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_017 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_018 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to FeiPan(Clone) because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_001 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_002 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_003 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_004 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_005 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_006 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_007 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_008 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_009 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_010 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_011 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_012 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_013 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_014 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_015 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_016 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_017 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
+Can't add component 'Rigidbody' to ShooterTarget_Chunk_018 because such a component is already added to the game object!
+ 
+(Filename:  Line: 99)
+
